@@ -1,26 +1,43 @@
 ## ▶️ Como executar o projeto 🚀
 
 Seja bem-vindo(a)! 👋  
-Aqui você vai aprender **na prática**, com comandos reais e exemplos visuais, como rodar este projeto Python do zero.
+Este guia é **100% prático**, pensado para iniciantes, mostrando **comandos reais**, exemplos visuais e agora também **como instalar o Python**, caso você ainda não tenha.
 
 ---
 
-## 🧰 Pré-requisitos
+## 🧰 Passo 0 — Instalar o Python (obrigatório)
 
-Antes de começar, confirme se você tem tudo instalado corretamente.
+Antes de tudo, você precisa ter o **Python 3** instalado no seu computador.
 
-### 🔍 Verificar se o Python está instalado
-No terminal, digite:
+### 🌐 Instalação no Windows, Linux ou macOS
+
+1. Acesse o site oficial do Python:  
+https://www.python.org
+
+2. Clique em **Download Python** (a versão recomendada aparecerá automaticamente).
+
+3. Durante a instalação no **Windows**, marque a opção:  
+☑️ **Add Python to PATH**
+
+4. Finalize a instalação normalmente.
+
+---
+
+### 🔍 Verificar se o Python foi instalado corretamente
+
+Abra o terminal (Prompt de Comando, PowerShell ou Terminal do VS Code) e digite:
 
 python --version
 
-ou
+ou, em alguns sistemas:
 
 python3 --version
 
 Se aparecer algo como:
-Python 3.x.x  
-✅ Está tudo certo!
+
+Python 3.x.x
+
+✅ Python instalado com sucesso!
 
 ---
 
@@ -62,20 +79,20 @@ main.py
 
 ## ▶️ Passo 4 — Executar o programa
 
-Agora é a hora mágica ✨  
+Agora é a parte mais importante ✨  
 Execute o programa com:
 
 python main.py
 
 Se tudo estiver correto, o terminal exibirá:
 
-=== GERENCIADOR DE TAREFAS ===
-1 - Adicionar tarefa
-2 - Listar tarefas
-3 - Remover tarefa
-4 - Sair
+=== GERENCIADOR DE TAREFAS ===  
+1 - Adicionar tarefa  
+2 - Listar tarefas  
+3 - Remover tarefa  
+4 - Sair  
 
-🎉 Parabéns! O programa está rodando.
+🎉 Pronto! O sistema já está funcionando.
 
 ---
 
@@ -84,7 +101,8 @@ Se tudo estiver correto, o terminal exibirá:
 ### ➕ Adicionar tarefa
 Digite:
 1
-Depois escreva o nome da tarefa e pressione Enter.
+
+Depois escreva o nome da tarefa e pressione **Enter**.
 
 Exemplo:
 Digite a tarefa: Estudar Python
@@ -96,14 +114,15 @@ Digite:
 2
 
 Exemplo de saída:
-1 - Estudar Python
-2 - Fazer exercícios
+1 - Estudar Python  
+2 - Fazer exercícios  
 
 ---
 
 ### 🗑️ Remover tarefa
 Digite:
 3
+
 Informe o número da tarefa que deseja remover.
 
 Exemplo:
@@ -127,13 +146,13 @@ O programa será encerrado com segurança.
 ✔ Laços de repetição (while)  
 ✔ Criação de funções  
 ✔ Entrada e saída de dados no terminal  
-✔ Estrutura de projeto Python para GitHub  
+✔ Organização de um projeto Python no GitHub  
 
 ---
 
 ## 🎯 Objetivo educacional
 
-Este projeto foi desenvolvido para **iniciantes**, com código simples, organizado e fácil de entender, ideal para quem está dando os primeiros passos em Python.
+Este projeto foi desenvolvido com foco **educacional**, ideal para quem está dando os **primeiros passos em Python** e quer aprender de forma prática e simples.
 
 ---
 
