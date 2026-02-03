@@ -1,6 +1,6 @@
 # 📝 Task Manager em Python
 
-Projeto simples de **Gerenciador de Tarefas** desenvolvido em Python, voltado para iniciantes que desejam aprender lógica de programação de forma prática, clara e objetiva.
+Projeto educacional de Gerenciador de Tarefas desenvolvido em Python, estruturado como uma aula prática para iniciantes. O objetivo é ensinar lógica de programação de forma clara, passo a passo e aplicada, utilizando exemplos reais no terminal. Este projeto é patrocinado pela Study Fy, que acredita em uma aprendizagem simples, objetiva e eficiente.
 
 ---
 
