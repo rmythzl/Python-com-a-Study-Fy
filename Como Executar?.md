@@ -5,7 +5,7 @@ Este guia é **100% prático**, pensado para iniciantes, mostrando **comandos re
 
 ---
 
-## 🧰 Passo 0 — Instalar o Python (obrigatório)
+## 🐍 Passo 0 — Instalar o Python (obrigatório)
 
 Antes de tudo, você precisa ter o **Python 3** instalado no seu computador.
 
